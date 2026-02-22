@@ -1,2 +1,10 @@
-# hello-github
-My first GitHub project
+# Hello GitHub 👋
+
+这是我第一次使用 GitHub。
+
+我正在学习：
+- 如何创建仓库
+- 如何修改文件
+- 如何保存版本
+
+日期：2026-02-22
